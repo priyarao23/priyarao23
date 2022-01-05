@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @priyarao23
-- 🌱 I’m currently learning JAVA
 
 <!---
 priyarao23/priyarao23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
